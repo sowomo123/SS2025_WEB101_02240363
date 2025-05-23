@@ -51,7 +51,7 @@ export default function SignupPage() {
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
           <h1 className="text-2xl font-bold">Sign up for TikTok</h1>
-          <p className="text-gray-500 mt-2">Create a profile, follow other accounts, make your own videos, and more</p>
+          <p className="text-gray-500 mt-2">Create a profile, follow other account, make your own videos, and more</p>
         </div>
 
         <div className="border rounded-lg p-6">
@@ -153,7 +153,7 @@ export default function SignupPage() {
 
         <div className="mt-4 text-center">
           <p className="text-gray-500">
-            Already have an account?{' '}
+            Already have an account{' '}
             <Link href="/login" className="text-red-500 font-medium hover:underline">
               Log in
             </Link>
