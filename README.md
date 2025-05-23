@@ -1,1 +1,1 @@
-# SS2025_WEB101_02240363
+![hi](practical_1_tiktok/post/images/wallpaper.jpg)
