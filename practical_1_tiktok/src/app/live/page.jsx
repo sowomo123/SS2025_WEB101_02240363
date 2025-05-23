@@ -14,7 +14,7 @@ export default function LivePage() {
                 <div className="h-8 w-8 rounded-full bg-gray-300 mr-2"></div>
                 <div>
                   <p className="text-sm font-semibold">user_{index + 1}</p>
-                  <p className="text-xs text-gray-500">Live stream title here</p>
+                  <p className="text-xs text-gray-500">Live stream title here </p>
                 </div>
               </div>
               <div className="mt-2 text-xs text-red-500">
